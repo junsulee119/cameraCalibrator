@@ -1,0 +1,28 @@
+## Camera Calibration Results
+* The number of selected images = 52
+* RMS error = 0.3133615998688047
+* Camera matrix (K) = 
+[[1.11627287e+03 0.00000000e+00 6.41543816e+02]
+ [0.00000000e+00 1.11660375e+03 3.45253748e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+* Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 1.91785858e-01 -8.45329913e-01 -3.28389992e-03  1.33403506e-03
+  1.40372357e+00]
+
+## Camera Calibration Results
+* The number of selected images = 38
+* RMS error = 0.21947411391955451
+* Camera matrix (K) = 
+[[593.75950041   0.         640.39940448]
+ [  0.         593.83101072 353.20336736]
+ [  0.           0.           1.        ]]
+* Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.03705602 -0.10018448 -0.00198709  0.00126405  0.06901485]
+
+## Camera Calibration Results
+* The number of selected images = 39
+* RMS error = 1.4201245356498229
+* Camera matrix (K) = 
+[[1.87571382e+03 0.00000000e+00 9.69343465e+02]
+ [0.00000000e+00 1.88038644e+03 5.23192095e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+* Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 3.76201845e-01 -2.44934467e+00 -2.56570063e-04  8.98629132e-04
+  4.94922146e+00]
