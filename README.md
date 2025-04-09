@@ -41,8 +41,8 @@ Performed both camera calibration and distortion correction on iPhone 12 pro 1.0
 
 ## Lens Distortion Correction Demo Video
 - **iPhone 12 Pro - 1x Zoom Camera**:  
-  ![Demo video](media/checkerboard_1x.avi)
+  ![Demo video](media/checkerboard_1x.mp4)
 - **iPhone 12 Pro - 0.5x Zoom Camera**:  
-  ![Demo video](media/checkerboard_05x.avi)
+  ![Demo video](media/checkerboard_05x.mp4)
 - **Galaxy S9 1x Zoom Camera**:  
-  ![Demo video](media/checkerboard_android.avi)  
+  ![Demo video](media/checkerboard_android.mp4)  
