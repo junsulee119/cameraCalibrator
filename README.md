@@ -40,9 +40,18 @@ Performed both camera calibration and distortion correction on iPhone 12 pro 1.0
 | Distortion coefficient<br>(k1, k2, p1, p2, k3, ...) | [3.76201845e-01 -2.44934467e+00 -2.56570063e-04 8.98629132e-04 4.94922146e+00] |
 
 ## Lens Distortion Correction Demo Video
-- **iPhone 12 Pro - 1x Zoom Camera**:  
+- **iPhone 12 Pro - 1x Zoom Camera**:
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PsvkZ4L9ow0/0.jpg)](https://www.youtube.com/watch?v=PsvkZ4L9ow0)
+  
   ![Demo video](media/checkerboard_1x.mp4)
 - **iPhone 12 Pro - 0.5x Zoom Camera**:  
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kkl4_dGyg-U/0.jpg)](https://www.youtube.com/watch?v=kkl4_dGyg-U)
+
   ![Demo video](media/checkerboard_05x.mp4)
 - **Galaxy S9 1x Zoom Camera**:  
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZN4hkl2IXow/0.jpg)](https://www.youtube.com/watch?v=ZN4hkl2IXow)
+
   ![Demo video](media/checkerboard_android.mp4)  
